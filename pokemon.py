@@ -9,3 +9,7 @@ print('finished!')
 print('Just added a new line')
 print('This is another line added later')
 print('goodbye!')
+
+print('hello again')
+
+print('goodbye')
